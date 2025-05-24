@@ -9,6 +9,6 @@ for item in pixels:
     for value in range(item[0], item[1]):
         img.putpixel((value, item[2]), (random.randint(0,255), random.randint(0,255), random.randint(0,255), random.randint(0,255)))
 
-img.save("transparent_canvas.png")
+img.save("skin.png")
 
 img.show()
