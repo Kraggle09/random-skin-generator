@@ -1,7 +1,6 @@
-# Random Skin Generator
+# Random Skin Generator for Minecraft
 Different skin each time  
 No, they aren't good  
 Hence "random"
 
-Just download the exe and run it.  
-If you're not on windows... idk I spent half an hour on this
+Just download the correct version and run the file
